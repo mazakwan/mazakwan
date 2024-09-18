@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <div align="center"> :technologist: My Forte</div>
+# <div align="center"> :technologist: My Tech Stuff</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,laravel,flutter,bootstrap,php,jquery" />
