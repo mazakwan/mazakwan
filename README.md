@@ -1,4 +1,4 @@
-## Hi there 👋
+👋 Hi There! I'm Arif Zakwan
 
 <!--
 **mazakwan/mazakwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,laravel,flutter,bootstrap,php,html,jquery,vscode" />
+  </a>
+</p>
