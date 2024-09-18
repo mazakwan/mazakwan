@@ -20,3 +20,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=github,laravel,flutter,bootstrap,php,jquery" />
   </a>
 </p>
+<div align="center">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazakwan&layout=compact&theme=tokyonight&card_width=700" />
+</div>
